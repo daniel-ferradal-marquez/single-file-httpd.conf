@@ -33,3 +33,6 @@ http://httpd.apache.org/docs/current/ssl/ssl_howto.html
 
 Security tips:
 http://httpd.apache.org/docs/2.4/misc/security_tips.html
+
+Minimal config by Apache HTTPD staff:
+* http://wiki.apache.org/httpd/Minimal_Config
