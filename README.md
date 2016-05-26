@@ -11,3 +11,6 @@ Probably this configuration schemes where thought out mostly for ISP's which hos
 * The aim for this are newbies and people who work on their own projects but this can be used for much more.
 
 * Of course everyone interested in learning how to configure apache should look at http://httpd.apache.org/docs/ for explanation of section/contexts and what every directive is for and where it should go. Apache documentation is very well organized and helpful, so do not forget to give it a try.
+* 
+
+Testing
