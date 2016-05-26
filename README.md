@@ -16,11 +16,11 @@ Probably this configuration schemes where thought out mostly for ISP's which hos
 
 * Parts of the official docs that I recommend you to visit to understand how Apache works:
 
+Contexts/Sections in HTTPD:
+http://httpd.apache.org/docs/current/mod/directive-dict.html#Context
+
 Core directives:
 http://httpd.apache.org/docs/2.4/mod/core.html
-
-Context:
-http://httpd.apache.org/docs/current/mod/directive-dict.html#Context
 
 Introduction to multi-processing-modules:
 http://httpd.apache.org/docs/current/mpm.html
