@@ -6,7 +6,7 @@ Probably this configuration schemes where thought out mostly for ISP's which hos
 
 * I consider most configurations out there for tutorials can be misguiding.
 
-* Here I just pretend to define a basic template configuration with every basic need within a single configuration file.
+* Here I just pretend to define a basic template configuration with every basic need within a single configuration file being also "production ready" at the same time for example, including most security considerations.
 
 * The aim for this are newbies and people who work on their own projects but this can be used for much more.
 
@@ -34,5 +34,6 @@ http://httpd.apache.org/docs/current/ssl/ssl_howto.html
 Security tips:
 http://httpd.apache.org/docs/2.4/misc/security_tips.html
 
-Minimal config by Apache HTTPD staff:
+
+*** Ultra Minimal config by Apache HTTPD staff:
 * http://wiki.apache.org/httpd/Minimal_Config
