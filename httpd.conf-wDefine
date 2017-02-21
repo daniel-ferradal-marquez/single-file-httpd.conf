@@ -131,7 +131,7 @@ Header always set X-Content-Type-Options nosniff
 
 ###
 # Default documentroot
-<Directory $docroot>
+<Directory ${docroot}>
 	DirectoryIndex disabled
         AllowOverride None
         Require all granted
