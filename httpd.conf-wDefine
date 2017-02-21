@@ -4,7 +4,7 @@
 # propagate to other path / names scenarios.
 
 ###
-# Here are the main definitions of paths that get repeated often
+# Here are the main definitions of paths/names that get repeated often
 Define srvroot /opt/apache/httpd
 Define docroot /opt/apache/httpd/htdocs
 Define srvname www.example.com
