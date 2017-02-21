@@ -77,7 +77,7 @@ SSLCipherSuite EECDH+AESGCM:EDH+AESGCM:AES256+EECDH:AES256+EDH
 SSLSessionTickets Off
 SSLRandomSeed startup file:/dev/urandom 1024
 SSLRandomSeed connect file:/dev/urandom 1024
-SSLSessionCache shmcb:/opt/apache/logs/ssl_gcache_data(512000)
+SSLSessionCache shmcb:${srvroot}/logs/ssl_gcache_data(512000)
 
 ###
 # Others modules add here ONLY WHEN NEEDED
