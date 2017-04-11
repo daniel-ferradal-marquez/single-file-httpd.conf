@@ -191,7 +191,7 @@ EnableSendfile on
         ServerAdmin mymail@example.com
         DocumentRoot $docroot
         ServerName $srvname
-	      ServerAlias example.com
+	ServerAlias example.com
         ErrorLog logs/${srvname}-error.log
         CustomLog logs/${srvname}.log common
 
@@ -207,7 +207,7 @@ EnableSendfile on
         ServerAdmin mymail@example.com
         DocumentRoot $docroot
         ServerName $srvname
-	      ServerAlias example.com
+	ServerAlias example.com
         ErrorLog logs/${srvname}-ssl-error.log
         CustomLog logs/${srvname}-ssl.log common
 
