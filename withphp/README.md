@@ -11,4 +11,5 @@ With this method Apache can use its best threaded MPM (event), while the PHP pro
 With this method Apache will reverse proxy php file requests to php-fpm, either to a unix socket file or to a tcp port.</p>
 
 <b>Versatility</b>
+
 This method adds lots of versatility to your architecture also because you can separate them (Apache and PHP-FPM) in different machines or even if your php application is too heavy, to use several php-fpm backends and balance to them from Apache HTTPD.
