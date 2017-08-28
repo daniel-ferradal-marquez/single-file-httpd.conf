@@ -43,3 +43,6 @@ In certain occassions the Administrator will need/prefer to make use of isolated
 <br/>
 <p><b>Why not just docker</b></p>
 <p>Yes, why not? Some people prefer to issolate them using docker and some other people wont need or don't want to use docker, that's up to you.</p>
+
+<br>
+<p>As always, refer to httpd <a href="http://httpd.apache.org/docs">official docs</a> or the <a href="http://wiki.apache.org/httpd">httpd wiki</a> for reliable info regarding how to configure httpd.</p>
