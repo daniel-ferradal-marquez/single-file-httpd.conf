@@ -9,6 +9,7 @@ In certain occassions the Administrator will need/prefer to make use of isolated
 <p>
 <ul>
 <li>Different modules to load for each instance.</il>
+<li>Different user for certain instances if needed.</il>
 <li>Finetune the load allowed for each instance (MPM).</il>
 <li>Completely isolated websites from one another.</il>
 <li>Different binaries in the same machine.</il>
