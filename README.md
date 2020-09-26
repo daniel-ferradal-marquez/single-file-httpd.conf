@@ -36,4 +36,4 @@ http://httpd.apache.org/docs/2.4/misc/security_tips.html
 
 
 *** Ultra Minimal config by Apache HTTPD staff:
-* http://wiki.apache.org/httpd/Minimal_Config
+* https://cwiki.apache.org/confluence/display/HTTPD/Minimal+Config
