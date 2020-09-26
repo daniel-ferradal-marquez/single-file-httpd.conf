@@ -17,7 +17,7 @@ In certain occassions the Administrator will need/prefer to make use of isolated
 </ul>
 </p>
 
-<p>The reasons can vary but if you propagate their paths correct the benefits of having separate instances are obvious.</p>
+<p>The reasons can vary but if you propagate their paths correctly the benefits of having separate instances are obvious.</p>
 
 <br/>
 <p><b>What's needed</b></p>
