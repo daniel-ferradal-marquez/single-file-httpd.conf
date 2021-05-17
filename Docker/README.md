@@ -2,7 +2,7 @@
 
 <p>I generally find Docker very useful to try server software without installing anything. Sometimes you may want to test in a docker container and just remove it afterwards, or have a more permanent solution with Docker.</p>
 
-<p>For this case I am going to show a small guide on how to use a single file httpd configuration with Docker to avoid complicatons or even to do a quick test without going crazy</p>
+<p>For this case I am going to show a small guide on how to use a single file httpd configuration (this time the one we explained with variables in another directory) with Docker to avoid complicatons or even to do a quick test without going crazy</p>
 
 <p>In this case I am going to test with image httpd:2.4.46-alpine (current latest with alpine OS).
 
