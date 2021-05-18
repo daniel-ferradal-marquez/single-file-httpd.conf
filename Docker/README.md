@@ -45,8 +45,6 @@
 
 <p><b>Reference</b></p>
 
-<<<<<<< HEAD
-<p>You can check the official source for all things httpd at <a href="http://httpd.apache.org/docs/current">HTTPD Current Documentation page</a>
-=======
-<p>You can check the official source of all this information at <a href="http://httpd.apache.org/docs/current/mod/core.html#define">Define directive at the official httpd docs</a>
->>>>>>> 01e2d5314c45e8ca12189e9f8bf2b7096b3d7bb6
+
+<p>You can check the official source for all things httpd at the <a href="http://httpd.apache.org/docs/current">HTTPD Current Documentation page</a>
+
