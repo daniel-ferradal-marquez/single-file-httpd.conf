@@ -45,4 +45,4 @@
 
 <p><b>Reference</b></p>
 
-<p>You can check the official source of all this information at <a href="http://httpd.apache.org/docs/current/mod/core.html#define">Define directive at the official httpd docs</a>
+<p>You can check the official source for all things httpd at <a href="http://httpd.apache.org/docs/current">HTTPD Current Documentation page</a>
