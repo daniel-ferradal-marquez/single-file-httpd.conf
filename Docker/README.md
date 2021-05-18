@@ -48,3 +48,4 @@
 
 <p>You can check the official source for all things httpd at the <a href="http://httpd.apache.org/docs/current">HTTPD Current Documentation page</a>
 
+<p>Credit for SSL global configuration goes to: <a href="https://ssl-config.mozilla.org/#server=apache&version=2.4.46&config=intermediate&openssl=1.1.1k&guideline=5.6">Mozilla SSL Configurator</a>. I generally have a clear picture of what I want to set but the selection of ciphers is always a pain and this configurator helps getting that out of the way in cases where you want to use a more or less secure and correct setup quickly.</p>
