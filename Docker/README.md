@@ -40,6 +40,8 @@
 <p>You are all set, now fire up a container, I for example test with non-used ports, 8090 for http and 4443 for https:</p>
 <p>
 <li>docker run -d -p 8090:80 -p 4443:443 --name httpd-tests -v /srv/httpd/conf:/usr/local/apache2/conf -v /srv/httpd/logs:/usr/local/apache2/logs -v /srv/httpd/htdocs:/usr/local/apache2/htdocs httpd:2.5.54-alpine</li>
+</p>
+  
 <p>With this you are binding apache to any ip in your server and port 8090 and 4443 (for SSL), you can access your server then with http://127.0.0.1:8090 or https://127.0.0.1:4443. You can use other ports or ips in your server of course just make sure no other service is using the same combination or ip:port.</p>
 </p>
 
