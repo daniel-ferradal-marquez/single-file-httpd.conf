@@ -9,7 +9,7 @@
 - Most Linux distributions if not all come with a difficult complex scheme to configure Apache HTTPD Server.
 Probably this configuration schemes were thought out mostly for ISP's which host lots of different virtualhosts for many different people. Although the purpose is clear, it confuses the heck of lots of users who do not really need such complex configuration schemes.
 
-- I consider most configurations out there for tutorials can be misguiding.
+- I consider most configurations out there from tutorials can be misguiding.
 
 - Here I just pretend to define a basic template configuration with every basic need within a single configuration file being also "production ready" at the same time, for example, including most security considerations regarding SSL and permissions.
 
