@@ -1,4 +1,6 @@
-# Single File httpd.conf
+# MIGRATING TO CODEBERG.ORG
+
+## Single File httpd.conf
 
 **The intention** of this repository **is to show how to use a single configuration file to define all Apache HTTPD configuration** you may need as opposed of practically 100% of the other layouts offered out there.
 
