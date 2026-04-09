@@ -1,4 +1,4 @@
-# MIGRATING TO CODEBERG.ORG
+# MIGRATING TO CODEBERG.ORG at https://codeberg.org/daniel-berg/single-file-httpd.conf
 
 ## Single File httpd.conf
 
